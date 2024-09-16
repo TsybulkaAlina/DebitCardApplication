@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/flujc376hl2uog0v?svg=true)](https://ci.appveyor.com/project/TsybulkaAlina/debitcardapplication)

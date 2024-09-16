@@ -48,7 +48,7 @@ public class DebitCardApplicationTest {
         WebElement submitButton = driver.findElement(By.cssSelector("button[type=button]"));
 
         // Ввод данных в поля
-        nameInput.sendKeys("Цыбулька Alina"); // Фамилия и Имя на русском
+        nameInput.sendKeys("Цыбулька Алина"); // Фамилия и Имя на русском
         phoneInput.sendKeys("+79858930397"); //Валидный номер телефона
         consentCheckbox.click(); // Установка флажка согласия
 
